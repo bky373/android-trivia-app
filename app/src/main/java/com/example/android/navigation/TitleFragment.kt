@@ -6,13 +6,19 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
+import androidx.navigation.Navigation
+import androidx.navigation.findNavController
 import com.example.android.navigation.databinding.FragmentTitleBinding
+import com.google.android.material.internal.NavigationMenu
 
 class TitleFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         val binding: FragmentTitleBinding = DataBindingUtil.inflate(layoutInflater, R.layout.fragment_title, container, false)
+        binding.playButton.setOnClickListener { view ->
+            view.findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
+        }
         return binding.root
     }
 
