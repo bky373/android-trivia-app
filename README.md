@@ -14,21 +14,21 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 
 ## Playing the App
 
-- Navigating with the drawer
+- <b>Navigating with the drawer</b>
 <img width="250" alt = "win" src = "https://user-images.githubusercontent.com/64389362/92683757-ad706d80-f36e-11ea-9f4d-671f967deb30.gif">
 <br>
 
-- Winning the game
+- <b>Winning the game</b>
 <img width="250" alt = "win" src = "https://user-images.githubusercontent.com/64389362/92683287-7483c900-f36d-11ea-8e29-3fdb6db1e53d.gif">
 <br>
 
-- Losing the game
+- <b>Losing the game</b>
 <img width="250" alt = "lose" src = "https://user-images.githubusercontent.com/64389362/92683558-2ae7ae00-f36e-11ea-8270-dd553bd71fac.gif">
 <br>
 
-- Sharing the game result
+- <b>Sharing the game result</b>
 <img width="250" alt = "win" src = "https://user-images.githubusercontent.com/64389362/92684400-59ff1f00-f370-11ea-8ffc-5cfdcb5c0e0f.gif">
 <br>
 
-- Using the overflow menu
+- <b>Using the overflow menu</b>
 <img width="250" alt = "win" src = "https://user-images.githubusercontent.com/64389362/92684559-b2362100-f370-11ea-97a1-4d340cba48da.gif">
