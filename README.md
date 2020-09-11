@@ -15,8 +15,8 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
   * Navigation component
   * Principles of Navigation
   * Conditional Navigation
-  * Back Stack Manipulation
-  * Annimation with Navigation
+  * BackStack Manipulation
+  * Animation with Navigation
   * Support for Up button
   * Menu
   * Safe Arguments
