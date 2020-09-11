@@ -1,4 +1,4 @@
-# Android Trivia App (안드로이드 퀴즈여행 앱)
+## :mag: Android Trivia App (안드로이드 퀴즈여행 앱) :mag:
 Udacity 과정 Lesson3 실습 (링크 : https://www.udacity.com/) <br>
 This is the toy app for lesson 3 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
@@ -10,7 +10,7 @@ The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 Since students haven't yet learned about saving data or the Android lifecycle, it tries to eliminate bugs caused by configuration changes. 
 <br>
 
-#### Focused on: Navigation
+## :bulb: Focused on: Navigation :bulb:
 * I've Learned
   * Navigation component
   * Principles of Navigation
