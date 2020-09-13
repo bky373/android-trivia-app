@@ -11,7 +11,7 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 <br>
 
 ## :bulb: Focused on: Navigation :bulb:
-* I've Learned
+* I've Covered
   * Navigation component
   * Principles of Navigation
   * Conditional Navigation
